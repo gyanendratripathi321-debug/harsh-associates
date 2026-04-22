@@ -1,6 +1,7 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
-<<<<<<< HEAD
+import { StrictMode } from 'react';
+import { createRoot } from 'react-dom/client';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import App from './App.tsx';
 import './index.css';
@@ -28,13 +29,7 @@ createRoot(document.getElementById('root')!).render(
         />
       </Routes>
     </BrowserRouter>
-=======
-import App from './App.tsx';
-import './index.css';
-
-createRoot(document.getElementById('root')!).render(
-  <StrictMode>
-    <App />
->>>>>>> a8c26291ced7aab212b9bd02c61b680867931cea
+  </StrictMode>
+);
   </StrictMode>
 );

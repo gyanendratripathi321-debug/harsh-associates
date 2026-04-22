@@ -12,18 +12,12 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.57.4",
-<<<<<<< HEAD
     "@types/react-router-dom": "^5.3.3",
     "framer-motion": "^12.38.0",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.30.3"
-=======
-    "lucide-react": "^0.344.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
->>>>>>> a8c26291ced7aab212b9bd02c61b680867931cea
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
@@ -41,4 +35,5 @@
     "typescript-eslint": "^8.3.0",
     "vite": "^5.4.2"
   }
+}
 }
